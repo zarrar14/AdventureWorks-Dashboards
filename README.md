@@ -27,7 +27,6 @@ This project simulates a real-world Business Intelligence workflow for *Adventur
 - *KPI Dashboard*: Revenue, Profit, Orders, Avg. Order Value
 - *Regional Analysis*: Sales performance across North America, Pacific and Europe
 - *Product Trends*: Top categories, best-selling products
-- *Customer Insights*: Segmentation of high-value and repeat customers
 
 > All dashboards are interactive, with slicers, drill-downs, and bookmarks for intuitive exploration.
 

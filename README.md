@@ -34,7 +34,7 @@ This project simulates a real-world Business Intelligence workflow for *Adventur
 
 ## 📁 Project Files
 - AdventureWorks_Report.pbix — Final Power BI report
-- AdventureWorks Raw Data.zip — Folder containing all raw Excel data files (e.g., Customers, Sales, Products)
+- AdventureWorks CSV Files.zip — Folder containing all raw Excel data files (e.g., Customers, Sales, Products)
 ---
 
 ## EXEC Dashboard
